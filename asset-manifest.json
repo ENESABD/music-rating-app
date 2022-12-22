@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/music-rating-app/static/css/main.e77dd4fe.chunk.css",
+    "main.js": "/music-rating-app/static/js/main.02b2baa4.chunk.js",
+    "main.js.map": "/music-rating-app/static/js/main.02b2baa4.chunk.js.map",
+    "runtime-main.js": "/music-rating-app/static/js/runtime-main.14a11661.js",
+    "runtime-main.js.map": "/music-rating-app/static/js/runtime-main.14a11661.js.map",
+    "static/js/2.83c9fae1.chunk.js": "/music-rating-app/static/js/2.83c9fae1.chunk.js",
+    "static/js/2.83c9fae1.chunk.js.map": "/music-rating-app/static/js/2.83c9fae1.chunk.js.map",
+    "index.html": "/music-rating-app/index.html",
+    "static/css/main.e77dd4fe.chunk.css.map": "/music-rating-app/static/css/main.e77dd4fe.chunk.css.map",
+    "static/js/2.83c9fae1.chunk.js.LICENSE.txt": "/music-rating-app/static/js/2.83c9fae1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14a11661.js",
+    "static/js/2.83c9fae1.chunk.js",
+    "static/css/main.e77dd4fe.chunk.css",
+    "static/js/main.02b2baa4.chunk.js"
+  ]
+}
